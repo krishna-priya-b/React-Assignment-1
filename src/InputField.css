@@ -1,0 +1,15 @@
+div{
+    margin-block: 20px;
+}
+label{
+    margin-block: 20px;
+   display: block;
+   width: 120px;
+}
+.input-field{
+    display: flex;
+    align-items: center;
+}
+input{
+    border-radius: 4px;
+}
